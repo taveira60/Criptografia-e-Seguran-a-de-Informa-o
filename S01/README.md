@@ -1,0 +1,3 @@
+# Semana 1
+
+Este trabalho tinha como âmbito recriar um word count em Python, de forma a que o programa devolvesse o número de palavras, caracteres e linhas de um determinado ficheiro. Neste trabalho, tivemos a ideia de abrir o ficheiro e passá-lo a três funções auxiliares, em que cada uma delas executa a respetiva tarefa. Utilizámos seek() no fim de cada função para que a função seguinte não começasse com o cursor já no fim do ficheiro.
